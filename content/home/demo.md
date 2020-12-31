@@ -6,7 +6,7 @@ widget: blank
 widget_id: Bienvenue
 headless: true
 weight: 15
-title: Academic Template
+title: Bienvenue
 subtitle: ""
 active: true
 design:
@@ -22,7 +22,7 @@ design:
       - 20px
       - "0"
 ---
-## Bienvenue sur histoires de famille
+## Bienvenue sur histoire de famille
 
 Plutôt que de constituer un arbre généalogique ce site a pour objectif la création d'un document centralisant les connaissances liées à la famille.
 
